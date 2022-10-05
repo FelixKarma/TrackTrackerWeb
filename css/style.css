@@ -12,7 +12,7 @@
 }
 
 .bg-grey{
-    background-color: #dddddd;
+    background-color: #c01b68;
 }
 
 .border-spacing{
@@ -61,4 +61,9 @@ body {
 
 .Artifika {
   font-family: "Artifika", serif;
+}
+
+.underline{
+  color: black;
+  text-decoration:underline;
 }
