@@ -58,3 +58,9 @@ body {
   text-align: right;
 
 }
+
+.audio-container {
+  display: flex;
+  justify-content: right;
+  align-items: right;
+}
