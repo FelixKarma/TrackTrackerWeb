@@ -56,7 +56,16 @@ body {
 
 .text-right {
   text-align: right;
+}
 
+.peralta {
+  font-family: 'Abyssinica SIL', serif ;
+}
+
+.audio-container {
+  display: flex;
+  justify-content: right;
+  align-items: right;
 }
 
 .Artifika {
@@ -66,4 +75,8 @@ body {
 .underline{
   color: black;
   text-decoration:underline;
+}
+
+.margin-droite {
+  margin: 0px 40px 50px;        
 }
