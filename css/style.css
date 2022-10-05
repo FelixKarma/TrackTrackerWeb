@@ -68,3 +68,8 @@ body {
 .Artifika {
   font-family: "Artifika", serif;
 }
+
+
+.margin-droite {
+  margin: 0px 40px 50px;        
+}
