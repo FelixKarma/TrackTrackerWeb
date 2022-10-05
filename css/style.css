@@ -56,5 +56,14 @@ body {
 
 .text-right {
   text-align: right;
+}
 
+.peralta {
+  font-family: 'Abyssinica SIL', serif ;
+}
+
+.audio-container {
+  display: flex;
+  justify-content: right;
+  align-items: right;
 }
