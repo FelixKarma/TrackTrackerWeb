@@ -48,3 +48,13 @@ li {
 .Roboto{
   font-family: 'Roboto', sans-serif;
 }
+
+body {
+  overflow-x:hidden ;
+
+}
+
+.text-right {
+  text-align: right;
+
+}
