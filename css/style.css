@@ -12,7 +12,7 @@
 }
 
 .bg-grey{
-    background-color: #dddddd;
+    background-color: #c01b68;
 }
 
 .border-spacing{
@@ -72,6 +72,10 @@ body {
   font-family: "Artifika", serif;
 }
 
+.underline{
+  color: black;
+  text-decoration:underline;
+}
 
 .margin-right {
   margin: 0px 35px 0px 0px;        
