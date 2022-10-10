@@ -1,0 +1,23 @@
+.bgs{
+/* Prototype 6 */
+
+position: relative;
+/* width: 1440px;
+height: 1024px; */
+
+
+
+
+/* FOND PRINCPAL */
+
+box-sizing: border-box;
+
+/* position: absolute; */
+width: 2332.35px;
+height: 2100.86px;
+left: 855.36px;
+top: -933.29px;
+
+background: linear-gradient(180deg, #C01B68 0%, #81195C 36.46%, #591755 63.02%);
+/* transform: rotate(46.84deg); */
+}
