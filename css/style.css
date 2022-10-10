@@ -25,6 +25,12 @@
   text-align: justify;
 }
 
+.centrer2 {
+  max-width: 400px;
+  margin-left: 230px;
+  text-align: justify;
+}
+
 table{
   border: 2px solid black;
 }
