@@ -113,3 +113,7 @@ body{
   padding-top: 20px;
   opacity: 0.800;
 }
+
+#logo{
+  align-items: flex-end;  
+}
