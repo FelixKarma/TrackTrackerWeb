@@ -134,3 +134,7 @@ body {
     #591755 63.02%
   );
 }
+
+#logo{
+  align-items: flex-end;  
+}
