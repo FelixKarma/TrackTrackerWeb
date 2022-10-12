@@ -12,7 +12,7 @@
 }
 
 .bg-grey{
-    background-color: #c01b68;
+    background-color: #808080;
 }
 
 .border-spacing{
@@ -116,4 +116,8 @@ body{
   padding-bottom: 450px;
   padding-top: 20px;
   opacity: 0.800;
+}
+
+.container{
+  justify-content: space-between
 }
