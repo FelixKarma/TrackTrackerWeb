@@ -1,31 +1,31 @@
-.text-center{
+.text-center1{
     text-align: center;
 }
 
-.text-right{
+.text-right1{
   text-align: right;
 }
 
-.items-center{
+.items-center1{
     margin-left:auto;
     margin-right:auto;
 }
 
-.bg-grey{
-    background-color: #808080;
+.bg-grey1{
+    background-color: #c01b68;
 }
 
-.border-spacing{
+.border-spacing1{
   border-spacing: 0px;
 }
 
-.centrer {
+.centrer1{
   max-width: 700px;
   margin: 0 auto;
   text-align: justify;
 }
 
-.centrer2 {
+.centrer2{
   max-width: 400px;
   margin-left: 230px;
   text-align: justify;
@@ -43,7 +43,7 @@ th, td{
   padding-bottom: 5px;
 }
 
-.hide{
+.hide1{
     color: black;
     text-decoration:none;
 }
@@ -51,35 +51,35 @@ li {
   display: block;
 }
 
-.Roboto{
+.Roboto1{
   font-family: 'Roboto', sans-serif;
 }
 
 
-.text-right {
+.text-right1{
   text-align: right;
 }
 
-.peralta {
+.peralta1{
   font-family: 'Abyssinica SIL', serif ;
 }
 
-.audio-container {
+.audio-container1{
   display: flex;
   justify-content: right;
   align-items: right;
 }
 
-.Artifika {
+.Artifika1{
   font-family: "Artifika", serif;
 }
 
-.underline{
+.underline1{
   color: black;
   text-decoration:underline;
 }
 
-.margin-right {
+.margin-right1{
   margin: 0px 35px 0px 0px;        
 }
 body{
@@ -95,7 +95,7 @@ body{
   opacity: 1;
 }
 
-.centrer1 {
+.centrer3{
   max-width: 700px;
   margin: 0 auto;
   text-align: justify;
@@ -103,7 +103,7 @@ body{
   }
 
 
-.font{
+.font1{
   border:5px black;
   border-radius: 10px;
   background-color: white;
