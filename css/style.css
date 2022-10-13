@@ -139,3 +139,6 @@ audio{
   height: 3em;
   width: 25em;
 }
+
+.card { background-color: rgba(245, 245, 245, 0.4); }
+.card-header, .card-footer { opacity: 1}
