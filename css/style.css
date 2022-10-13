@@ -1,42 +1,41 @@
-.text-center {
-  text-align: center;
+.text-center1{
+    text-align: center;
 }
 
-.text-right {
+.text-right1{
   text-align: right;
 }
 
-.items-center {
-  margin-left: auto;
-  margin-right: auto;
+.items-center1{
+    margin-left:auto;
+    margin-right:auto;
 }
 
-.bg-grey {
-  background-color: #c01b68;
+.bg-grey1{
+    background-color: #c01b68;
 }
 
-.border-spacing {
+.border-spacing1{
   border-spacing: 0px;
 }
 
-.centrer {
+.centrer1{
   max-width: 700px;
   margin: 0 auto;
   text-align: justify;
 }
 
-.centrer2 {
+.centrer2{
   max-width: 400px;
   margin-left: 230px;
   text-align: justify;
 }
 
-table {
+table{
   border: 2px solid black;
 }
 
-th,
-td {
+th, td{
   border: 1px solid #dddddd;
   padding-left: 20px;
   padding-right: 20px;
@@ -44,69 +43,67 @@ td {
   padding-bottom: 5px;
 }
 
-.hide {
-  color: black;
-  text-decoration: none;
+.hide1{
+    color: black;
+    text-decoration:none;
 }
 li {
   display: block;
 }
 
-.Roboto {
-  font-family: "Roboto", sans-serif;
+.Roboto1{
+  font-family: 'Roboto', sans-serif;
 }
 
-body {
-  overflow-x: hidden;
-}
 
-.text-right {
+.text-right1{
   text-align: right;
 }
 
-.peralta {
-  font-family: "Abyssinica SIL", serif;
+.peralta1{
+  font-family: 'Abyssinica SIL', serif ;
 }
 
-.audio-container {
+.audio-container1{
   display: flex;
   justify-content: right;
   align-items: right;
 }
 
-.Artifika {
+.Artifika1{
   font-family: "Artifika", serif;
 }
 
-.underline {
+.underline1{
   color: black;
-  text-decoration: underline;
+  text-decoration:underline;
 }
 
-.margin-right {
-  margin: 0px 35px 0px 0px;
+.margin-right1{
+  margin: 0px 35px 0px 0px;        
 }
 body{
   background-image: url("../image/FOND.jpg") ;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: 100% 100%;
+  background-size: 100% 100%
 }
 
-.bg-white1 {
-  background-color: white;
+
+.bg-white1{
+  background-color:white;
   opacity: 1;
 }
 
-.centrer1 {
+.centrer3{
   max-width: 700px;
   margin: 0 auto;
   text-align: justify;
   background-color: white;
-}
+  }
 
-.font{
-  border:5px black;
+.font {
+  border: 5px black;
   border-radius: 10px;
   background-color: white;
   color: black;
@@ -115,22 +112,8 @@ body{
   opacity: 0.750;
 }
 
-.bgs {
-  position: relative;
-
-  box-sizing: border-box;
-
-  width: 2332.35px;
-  height: 2100.86px;
-  left: 855.36px;
-  top: -933.29px;
-
-  background: linear-gradient(
-    180deg,
-    #c01b68 0%,
-    #81195c 36.46%,
-    #591755 63.02%
-  );
+#logo{
+  align-items: flex-end;  
 }
 
 .bold{
