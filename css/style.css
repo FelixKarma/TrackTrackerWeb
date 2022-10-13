@@ -89,6 +89,7 @@ body{
   background-size: 100% 100%
 }
 
+
 .bg-white1{
   background-color:white;
   opacity: 1;
@@ -116,4 +117,18 @@ body{
 
 #logo{
   align-items: flex-end;  
+}
+
+.centrer{
+  text-align: center;
+}
+
+.marginpourcentrer{
+  align-items: center;
+  margin-top: 15%;
+}
+
+.marginpourespacerduneligne{
+  margin-top: 30px;
+
 }
