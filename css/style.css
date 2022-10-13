@@ -145,6 +145,6 @@ audio{
   justify-content: space-around;
 }
 
-.cardfont{
-  background-color: rgba(white, white, white, 0);
+.bg-perso{
+  background-color: rgba(255, 255, 255, 0.8 );
 }
