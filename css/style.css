@@ -1,27 +1,37 @@
+<<<<<<< HEAD
  .text-center{
+=======
+.text-center1{
+>>>>>>> 6a0717ad38a1ef6c0d15a7c6d3ba7a99b15b133b
     text-align: center;
 }
 
-.text-right{
+.text-right1{
   text-align: right;
 }
 
-.items-center{
+.items-center1{
     margin-left:auto;
     margin-right:auto;
 }
 
-.bg-grey{
-    background-color: #dddddd;
+.bg-grey1{
+    background-color: #c01b68;
 }
 
-.border-spacing{
+.border-spacing1{
   border-spacing: 0px;
 }
 
-.centrer {
+.centrer1{
   max-width: 700px;
   margin: 0 auto;
+  text-align: justify;
+}
+
+.centrer2{
+  max-width: 400px;
+  margin-left: 230px;
   text-align: justify;
 }
 
@@ -37,7 +47,7 @@ th, td{
   padding-bottom: 5px;
 }
 
-.hide{
+.hide1{
     color: black;
     text-decoration:none;
 }
@@ -45,25 +55,102 @@ li {
   display: block;
 }
 
-.Roboto{
+.Roboto1{
   font-family: 'Roboto', sans-serif;
 }
 
-body {
-  overflow-x:hidden ;
 
-}
-
-.text-right {
+.text-right1{
   text-align: right;
-
 }
 
-.Artifika {
+.peralta1{
+  font-family: 'Abyssinica SIL', serif ;
+}
+
+.audio-container1{
+  display: flex;
+  justify-content: right;
+  align-items: right;
+}
+
+.Artifika1{
   font-family: "Artifika", serif;
 }
+<<<<<<< HEAD
 #global{
   margin-left: auto;
   margin-right: auto;
   
 }
+=======
+
+.underline1{
+  color: black;
+  text-decoration:underline;
+}
+
+.margin-right1{
+  margin: 0px 35px 0px 0px;        
+}
+body{
+  background-image: url("../image/FOND.jpg") ;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%
+}
+
+
+.bg-white1{
+  background-color:white;
+  opacity: 1;
+}
+
+.centrer3{
+  max-width: 700px;
+  margin: 0 auto;
+  text-align: justify;
+  background-color: white;
+  }
+
+.font {
+  border: 5px black;
+  border-radius: 10px;
+  background-color: white;
+  color: black;
+  width: 450px;
+  height: 660px;  
+  opacity: 0.750;
+}
+
+#logo{
+  align-items: flex-end;  
+}
+
+.bold{
+  font-weight: bold;
+}
+.italic{
+  font-style: italic;
+}
+
+.removebold{
+  font-weight:normal;
+}
+
+.textcompo{
+  font-size: 0.75em;
+}
+
+.textcard{
+  font-size: 0.90em;
+}
+
+audio{
+  height: 3em;
+  width: 25em;
+}
+
+.card { background-color: rgba(245, 245, 245, 0.4); }
+.card-header, .card-footer { opacity: 1}
+>>>>>>> 6a0717ad38a1ef6c0d15a7c6d3ba7a99b15b133b
