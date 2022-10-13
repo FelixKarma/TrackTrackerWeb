@@ -102,33 +102,40 @@ body{
   background-color: white;
   }
 
-
-.font1{
-  border:5px black;
+.font {
+  border: 5px black;
   border-radius: 10px;
   background-color: white;
   color: black;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 450px;
-  padding-top: 20px;
-  opacity: 0.800;
+  width: 450px;
+  height: 660px;  
+  opacity: 0.750;
 }
 
 #logo{
   align-items: flex-end;  
 }
 
-.centrer{
-  text-align: center;
+.bold{
+  font-weight: bold;
+}
+.italic{
+  font-style: italic;
 }
 
-.marginpourcentrer{
-  align-items: center;
-  margin-top: 15%;
+.removebold{
+  font-weight:normal;
 }
 
-.marginpourespacerduneligne{
-  margin-top: 30px;
+.textcompo{
+  font-size: 0.75em;
+}
 
+.textcard{
+  font-size: 0.90em;
+}
+
+audio{
+  height: 3em;
+  width: 25em;
 }
