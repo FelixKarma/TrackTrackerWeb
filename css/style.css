@@ -142,3 +142,11 @@ audio{
 
 .card { background-color: rgba(245, 245, 245, 0.4); }
 .card-header, .card-footer { opacity: 1}
+.space1{
+  display: flex;
+  justify-content: space-around;
+}
+
+.bg-perso{
+  background-color: rgba(255, 255, 255, 0.8 );
+}
