@@ -162,10 +162,8 @@ audio{
   width: 25em;
 }
 
-<<<<<<< HEAD
 .card { background-color: rgba(245, 245, 245, 0.4); }
 .card-header, .card-footer { opacity: 1}
-=======
 .marginpourespacerdeplusieurslignes{
   margin-top: 30px;
 
@@ -178,7 +176,6 @@ audio{
 .card-header, .card-footer { 
   opacity: 1
 }
->>>>>>> 78295e3d68e411196dc01f3669a8837dad07815d
 
 .space1{
   display: flex;
@@ -190,7 +187,6 @@ audio{
   height: 90px;
 }
 
-<<<<<<< HEAD
 .m-perso{
 margin-top: 70px;
 position: absolute;
@@ -200,7 +196,6 @@ position: absolute;
 .h-perso{
   height: 257px;
 }
-=======
 
 #navbar1{
   display: flex;
@@ -262,4 +257,3 @@ position: absolute;
 #footer1{
   background-color: rgba(0, 0, 0, 0);
 }     
->>>>>>> 78295e3d68e411196dc01f3669a8837dad07815d
