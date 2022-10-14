@@ -82,6 +82,15 @@ li {
 .margin-right1{
   margin: 0px 35px 0px 0px;        
 }
+
+.double-margin-right1{
+  margin: 0px 70px 0px 0px;        
+}
+
+.triple-margin-right1{
+  margin: 0px 105px 0px 0px;        
+}
+
 body{
   background-image: url("../image/FOND.jpg") ;
   background-repeat: no-repeat;
@@ -142,3 +151,9 @@ audio{
 
 .card { background-color: rgba(245, 245, 245, 0.4); }
 .card-header, .card-footer { opacity: 1}
+
+.marginpourespacerdeplusieurslignes{
+  margin-top: 30px;
+
+}
+
