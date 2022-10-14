@@ -73,6 +73,18 @@ li {
 .Artifika1{
   font-family: "Artifika", serif;
 }
+#global{
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+
+#global{
+  margin-left: auto;
+  margin-right: auto;
+  
+}
 
 .underline1{
   color: black;
@@ -82,6 +94,15 @@ li {
 .margin-right1{
   margin: 0px 35px 0px 0px;        
 }
+
+.double-margin-right1{
+  margin: 0px 70px 0px 0px;        
+}
+
+.triple-margin-right1{
+  margin: 0px 105px 0px 0px;        
+}
+
 body{
   background-image: url("../image/FOND.jpg") ;
   background-repeat: no-repeat;
@@ -113,7 +134,8 @@ body{
 }
 
 #logo{
-  align-items: flex-end;  
+  align-items: flex-end;
+  width: 500px;  
 }
 
 .bold{
@@ -140,8 +162,23 @@ audio{
   width: 25em;
 }
 
+<<<<<<< HEAD
 .card { background-color: rgba(245, 245, 245, 0.4); }
 .card-header, .card-footer { opacity: 1}
+=======
+.marginpourespacerdeplusieurslignes{
+  margin-top: 30px;
+
+}
+
+.card {
+   background-color: rgba(245, 245, 245, 0.4); 
+  }
+
+.card-header, .card-footer { 
+  opacity: 1
+}
+>>>>>>> 78295e3d68e411196dc01f3669a8837dad07815d
 
 .space1{
   display: flex;
@@ -150,8 +187,10 @@ audio{
 
 .bg-perso{
   background-color: rgba(255, 255, 255, 0.8 );
+  height: 90px;
 }
 
+<<<<<<< HEAD
 .m-perso{
 margin-top: 70px;
 position: absolute;
@@ -161,3 +200,66 @@ position: absolute;
 .h-perso{
   height: 257px;
 }
+=======
+
+#navbar1{
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+
+/* Styles for wrapping the search box */
+
+.main {
+  width: 50%;
+  margin: 50px auto;
+}
+
+/* Bootstrap 4 text input with search icon */
+
+.has-search .form-control {
+  padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  width: 2.375rem;
+  height: 2.375rem;
+  line-height: 2.375rem;
+  text-align: center;
+  pointer-events: none;
+  color: rgba(0, 0, 0, 0);
+}
+
+#conneclogo{
+  border: 2px solid black;
+  border-radius: 16px;
+  margin-right: 25px; 
+  text-align: center;
+  width: 100px;  
+}
+
+.pills{
+  background-color: rgba(170, 170, 170, 0);
+  border-color: rgba(170, 170, 170, 0);
+  }
+
+  #connexion1{
+    text-decoration: none;
+    color: black;
+  }
+
+  #researchbar{
+    background-color: rgba(0, 0, 0, 0);
+    border-color: black;
+  }
+
+  .btn-group{
+    background-color: rgba(162, 25, 98, 0);
+      }
+#footer1{
+  background-color: rgba(0, 0, 0, 0);
+}     
+>>>>>>> 78295e3d68e411196dc01f3669a8837dad07815d
