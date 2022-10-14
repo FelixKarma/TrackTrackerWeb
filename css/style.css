@@ -122,7 +122,8 @@ body{
 }
 
 #logo{
-  align-items: flex-end;  
+  align-items: flex-end;
+  width: 500px;  
 }
 
 .bold{
@@ -149,11 +150,83 @@ audio{
   width: 25em;
 }
 
-.card { background-color: rgba(245, 245, 245, 0.4); }
-.card-header, .card-footer { opacity: 1}
-
 .marginpourespacerdeplusieurslignes{
   margin-top: 30px;
 
 }
 
+.card {
+   background-color: rgba(245, 245, 245, 0.4); 
+  }
+
+.card-header, .card-footer { 
+  opacity: 1
+}
+
+.space1{
+  display: flex;
+  justify-content: space-around;
+}
+
+.bg-perso{
+  background-color: rgba(255, 255, 255, 0.8 );
+  height: 90px;
+}
+
+#navbar1{
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+
+/* Styles for wrapping the search box */
+
+.main {
+  width: 50%;
+  margin: 50px auto;
+}
+
+/* Bootstrap 4 text input with search icon */
+
+.has-search .form-control {
+  padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  width: 2.375rem;
+  height: 2.375rem;
+  line-height: 2.375rem;
+  text-align: center;
+  pointer-events: none;
+  color: rgb(0, 0, 0);
+}
+
+#conneclogo{
+  border: 2px solid black;
+  border-radius: 16px;
+  margin-right: 25px; 
+  text-align: center;
+  width: 100px;  
+}
+
+.pills{
+  background-color: rgba(170, 170, 170, 0);
+  border-color: rgba(170, 170, 170, 0);
+  }
+
+  #connexion1{
+    text-decoration: none;
+    color: black;
+  }
+
+  #researchbar{
+    background-color: rgba(0, 0, 0, 0);
+    border-color: black;
+  }
+
+  .btn-group{
+    background-color: rgba(162, 25, 98, 0);
+      }
