@@ -125,7 +125,8 @@ body{
 }
 
 #logo{
-  align-items: flex-end;  
+  align-items: flex-end;
+  width: 500px;  
 }
 
 .bold{
@@ -152,8 +153,13 @@ audio{
   width: 25em;
 }
 
-.card { background-color: rgba(245, 245, 245, 0.4); }
-.card-header, .card-footer { opacity: 1}
+.card {
+   background-color: rgba(245, 245, 245, 0.4); 
+  }
+
+.card-header, .card-footer { 
+  opacity: 1
+}
 
 .space1{
   display: flex;
