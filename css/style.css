@@ -73,6 +73,18 @@ li {
 .Artifika1{
   font-family: "Artifika", serif;
 }
+#global{
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+
+#global{
+  margin-left: auto;
+  margin-right: auto;
+  
+}
 
 .underline1{
   color: black;
@@ -159,6 +171,7 @@ audio{
   height: 90px;
 }
 
+
 #navbar1{
   display: flex;
   justify-content: flex-end;
@@ -187,7 +200,7 @@ audio{
   line-height: 2.375rem;
   text-align: center;
   pointer-events: none;
-  color: rgb(0, 0, 0);
+  color: rgba(0, 0, 0, 0);
 }
 
 #conneclogo{
@@ -216,3 +229,6 @@ audio{
   .btn-group{
     background-color: rgba(162, 25, 98, 0);
       }
+#footer1{
+  background-color: rgba(0, 0, 0, 0);
+}     
