@@ -237,11 +237,11 @@ audio {
     line-height: 2.375rem;
     text-align: center;
     pointer-events: none;
-    color: rgb(0, 0, 0);
+    color: rgb(254, 254, 254);
 }
 
 #conneclogo {
-  border: 2px solid black;
+  border: 2px solid rgb(255, 255, 255);
   border-radius: 16px;
   margin-right: 25px;
   text-align: center;
@@ -249,13 +249,13 @@ audio {
 }
 
 .pills {
-  background-color: rgba(170, 170, 170, 0);
-  border-color: rgba(170, 170, 170, 0);
+  background-color: rgba(255, 255, 255, 0);
+  border-color: rgba(255, 255, 255, 0);
 }
 
 #connexion1 {
   text-decoration: none;
-  color: black;
+  color: rgb(255, 255, 255);
 }
 
 #researchbar {
@@ -270,3 +270,4 @@ audio {
 #footer1 {
   background-color: rgba(0, 0, 0, 0);
 }
+
