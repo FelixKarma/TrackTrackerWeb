@@ -260,6 +260,10 @@ audio {
 
 #researchbar {
   background-color: rgba(0, 0, 0, 0);
+}     
+
+.tailleperso{
+  font-size: 14px;
   border-color: black;
 }
 
