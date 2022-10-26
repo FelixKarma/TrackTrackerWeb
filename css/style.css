@@ -267,8 +267,61 @@ audio {
 #footer1 {
   background-color: rgba(255, 255, 255, 0);
 }
-  background-color: { 
-    rgba(0, 0, 0, 0);
+ 
+#dropdownpopulaire{
+  color: white;
 }
 
+#Harry{
+  background-image: url('../image/HP_Playlist.jpg');
+  background-repeat: no-repeat;
+  background-attachment: local;
+  background-size: cover;
+}
+#Anatomy{
+  background-image: url('../image/greys_anatomy_playlist.jpg');
+  background-repeat: no-repeat;
+  background-attachment: local;
+  background-size: cover;
+}
+#Interstellar{
+  background-image: url('../image/Interstellar_Playlist.jpg');
+  background-attachment: local;
+  background-size: cover;
+}
+#Chucky{
+  background-image: url('../image/Chuky_playlist.jpg');
+  background-repeat: no-repeat;
+  background-attachment: local;
+  background-size: cover;
+}
+#Wdead{
+  background-image: url('../image/TWD_Playlist.jpg');
+  background-repeat: no-repeat;
+  background-attachment: local;
+  background-size: cover;
+}
+#Doctor{
+  background-image: url('../image/GoodD.jfif');
+  background-repeat: no-repeat;
+  background-attachment: local;
+  background-size: cover;
+}
+#Games{
+  background-image: url('../image/Hunger_games_playlist.jpg');
+  background-repeat: no-repeat;
+  background-attachment: local;
+  background-size: cover;
+}
+#Tim{
+  background-image: url('../image/timsoleil.png');
+  background-repeat: no-repeat;
+  background-attachment: local;
+  background-size: cover;
+}
+ 
+
+#dropdownpopulaire{
+  color: white;
+}
 
