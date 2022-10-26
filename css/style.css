@@ -107,10 +107,11 @@ li {
 }
 
 body {
-  background-image: url("../image/FOND.jpg");
+  background-image: url("../image/FOND-ROUGE.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%
+
 }
 
 
@@ -237,11 +238,11 @@ audio {
     line-height: 2.375rem;
     text-align: center;
     pointer-events: none;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 
 #conneclogo {
-  border: 2px solid black;
+  border: 2px solid rgb(255, 255, 255);
   border-radius: 16px;
   margin-right: 25px;
   text-align: center;
@@ -249,28 +250,28 @@ audio {
 }
 
 .pills {
-  background-color: rgba(170, 170, 170, 0);
-  border-color: rgba(170, 170, 170, 0);
+  background-color: rgba(255, 255, 255, 0);
+  border-color: rgba(255, 255, 255, 0);
 }
 
 #connexion1 {
   text-decoration: none;
-  color: black;
+  color: rgb(255, 255, 255);
 }
 
 #researchbar {
-  background-color: rgba(0, 0, 0, 0);
+  background-color: rgba(255, 255, 255, 0);
 }     
 
 .tailleperso{
   font-size: 14px;
-  border-color: black;
+  border-color: rgb(255, 255, 255);
 }
 
 .btn-group {
-  background-color: rgba(162, 25, 98, 0);
+  background-color: rgba(255, 255, 255, 0);
 }
 
 #footer1 {
-  background-color: rgba(0, 0, 0, 0);
+  background-color: rgba(255, 255, 255, 0);
 }
