@@ -267,6 +267,7 @@ audio {
 #footer1 {
   background-color: rgba(255, 255, 255, 0);
 }
+ 
 
 #Harry{
   background-image: url('../image/HP_Playlist.jpg');
@@ -316,7 +317,6 @@ audio {
   background-size: cover;
 }
  
-
 #dropdownpopulaire{
   color: white;
 }
