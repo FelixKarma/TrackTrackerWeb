@@ -11,15 +11,15 @@
         rel="stylesheet" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-
+    <script src="https://kit.fontawesome.com/20f2b0d45a.js" crossorigin="anonymous"></script>
     <title>B.O.defilm</title>
 </head>
 
 <body>
-
+    
     <!-- HEADER -->
 
-    <header class="mb-3">
+    <header>
         <nav class="navbar bg" style="background-color: rgba(0, 0, 0, 0)">
             <div class="container-fluid">
                 <img src="image/Titre.png" id="logo">
@@ -33,10 +33,22 @@
                     <div id="colone1">
                         <div class="form-group has-search mb-3 mt-3 ">
                             <span
-                                class="fa fa-search form-control-feedback border border-2 border border-dark rounded-start"
+                                class="fa fa-search form-control-feedback border border-2 border border-light rounded-start"
                                 id="researchbar"></span>
-                            <input type="text" class="form-control border border-2 border border-dark rounded-end"
+                            <input type="text" class="form-control border border-2 border border-light rounded-end"
                                 id="researchbar" placeholder="Rechercher">
+                        </div>
+                        <div class="btn-group">
+                            <button type="button"
+                                class="btn btn-outline-dark dropdown-toggle border border-2 border border-light"
+                                data-bs-toggle="dropdown" aria-expanded="false">
+                                Populaire
+                            </button>
+                            <ul class="dropdown-menu dropdown-menu-end">
+                                <li><button class="dropdown-item" type="button">Game of Throne</button></li>
+                                <li><button class="dropdown-item" type="button">Gladiator</button></li>
+                                <li><button class="dropdown-item" type="button">Ziemlich Best Freunde</button></li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -201,17 +213,26 @@
                 </ul>
             </div>
         </aside>
-
-
-
     </section>
+    <footer>
+        <div class="card" id="footer1">
+            <div class="card-header">
+              Track Trackers
+            </div>
+            <div class="card-body" >
+              <h5 class="card-title"></h5>
+              <p class="card-text">Mention Légal</p>
+              <a href="#" class="btn btn">Centre de confidentialité</a>
+              <a href="#" class="btn btn">Protection des données</a>
+              <a href="#" class="btn btn">Paramètres des cookies</a>
+              <a href="#" class="btn btn">À propos des pubs</a>
+            </div>
+          </div>
 
-
-
-
-
-
-
+    </footer>
 </body>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3"
+    crossorigin="anonymous"></script>
 
 </html>
