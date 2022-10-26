@@ -107,7 +107,7 @@ li {
 }
 
 body {
-  background-image: url("../image/FOND-ROUGE.jpg");
+  background-image: url("../image/FOND.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%
@@ -276,6 +276,9 @@ audio {
 #footer1 {
   background-color: rgba(255, 255, 255, 0);
 }
-  background-color: rgba(0, 0, 0, 0);
-}
 
+.footer-goche{
+  display: flex;
+  justify-content: flex-start;
+
+}
