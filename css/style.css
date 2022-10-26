@@ -275,13 +275,14 @@ audio {
 
 #footer1 {
   background-color: rgba(255, 255, 255, 0);
-}
-
-background-color: {
-rgba(0, 0, 0, 0);
-}
- 
+} 
 
 #dropdownpopulaire{
   color: white;
+}
+
+#shadow {
+  width: 230px;
+	height: 351px;
+	box-shadow: 2px 3px 8px 2px #FFFF;
 }
