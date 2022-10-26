@@ -333,7 +333,6 @@ audio {
 }
 
 
-
 .dropdown-populaire{
   text-decoration: none;
   color: black;
@@ -343,5 +342,8 @@ audio {
   color:black ;
 }  
 
-
+.affiche-film{
+  width: 230px;
+  height: 352px;
+}
 
