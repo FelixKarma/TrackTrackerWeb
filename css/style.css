@@ -355,6 +355,7 @@ audio {
   text-decoration: none;
   color: red;
 }
+
 .footer-goche{
   display: flex;
   justify-content: flex-start;
@@ -363,7 +364,6 @@ audio {
   width: 480px;
   height: 400px;
   overflow-y: scroll;
-  scrollbar-color:;
   scrollbar-width: thin;
 }
 
@@ -377,6 +377,5 @@ audio {
   width: 296px;
   height: 666px;
   overflow-y: scroll;
-  scrollbar-color:;
   scrollbar-width: thin;
 }
