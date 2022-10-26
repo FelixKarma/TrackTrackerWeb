@@ -281,3 +281,12 @@ audio {
 #dropdownpopulaire{
   color: white;
 }
+
+.dropdown-populaire{
+  text-decoration: none;
+  color: black;
+  }
+
+.dropdown-populaire:hover{
+  color:black ;
+}  
