@@ -267,12 +267,7 @@ audio {
 #footer1 {
   background-color: rgba(255, 255, 255, 0);
 }
- 
-#dropdownpopulaire{
-  color: white;
-}
 
-<<<<<<< HEAD
 #Harry{
   background-image: url('../image/HP_Playlist.jpg');
   background-repeat: no-repeat;
@@ -321,15 +316,11 @@ audio {
   background-size: cover;
 }
  
-=======
->>>>>>> 6450e8e13fcd2723cdf563b1caa745368bc7827b
 
 #dropdownpopulaire{
   color: white;
 }
 
-<<<<<<< HEAD
-=======
 .dropdown-populaire{
   text-decoration: none;
   color: black;
@@ -338,4 +329,6 @@ audio {
 .dropdown-populaire:hover{
   color:black ;
 }  
->>>>>>> 6450e8e13fcd2723cdf563b1caa745368bc7827b
+
+
+
