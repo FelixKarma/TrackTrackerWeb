@@ -181,15 +181,6 @@ audio {
 
 }
 
-.card {
-  background-color: rgba(245, 245, 245, 0.4);
-}
-
-.card-header,
-.card-footer {
-  opacity: 1
-}
-
 .space1 {
   display: flex;
   justify-content: space-around;
@@ -274,7 +265,91 @@ audio {
 }
 
 #footer1 {
+  border-top: 2px solid white;
+  margin-top: 50px;
   background-color: rgba(255, 255, 255, 0);
+} 
+ 
+
+#Harry{
+  background-image: url('../image/HP_Playlist.jpg');
+  background-repeat: no-repeat;
+  background-attachment: local;
+  background-size: cover;
+}
+#Anatomy{
+  background-image: url('../image/greys_anatomy_playlist.jpg');
+  background-repeat: no-repeat;
+  background-attachment: local;
+  background-size: cover;
+}
+#Interstellar{
+  background-image: url('../image/Interstellar_Playlist.jpg');
+  background-attachment: local;
+  background-size: cover;
+}
+#Chucky{
+  background-image: url('../image/Chuky_playlist.jpg');
+  background-repeat: no-repeat;
+  background-attachment: local;
+  background-size: cover;
+}
+#Wdead{
+  background-image: url('../image/TWD_Playlist.jpg');
+  background-repeat: no-repeat;
+  background-attachment: local;
+  background-size: cover;
+}
+#Doctor{
+  background-image: url('../image/GoodD.jfif');
+  background-repeat: no-repeat;
+  background-attachment: local;
+  background-size: cover;
+}
+#Games{
+  background-image: url('../image/Hunger_games_playlist.jpg');
+  background-repeat: no-repeat;
+  background-attachment: local;
+  background-size: cover;
+}
+#Tim{
+  background-image: url('../image/timsoleil.png');
+  background-repeat: no-repeat;
+  background-attachment: local;
+  background-size: cover;
+}
+ 
+#dropdownpopulaire{
+  color: white;
+}
+
+#shadow {
+  width: 230px;
+	height: 351px;
+	box-shadow: 2px 3px 8px 2px #FFFF;
+}
+.lien-footer {
+  text-decoration: none !important;
+  color: white !important; 
+ }
+#footer2{
+  display:flex;
+  justify-content: space-around;
+}
+
+
+.dropdown-populaire{
+  text-decoration: none;
+  color: black;
+  }
+
+.dropdown-populaire:hover{
+  color:black ;
+}  
+
+.affiche-film{
+  width: 230px;
+  height: 352px;
 }
 
 .footer-goche{
