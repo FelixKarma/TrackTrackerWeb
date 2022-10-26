@@ -269,7 +269,7 @@ audio {
   margin-top: 50px;
   background-color: rgba(255, 255, 255, 0);
 } 
- 
+
 
 #Harry{
   background-image: url('../image/HP_Playlist.jpg');
@@ -356,4 +356,12 @@ audio {
   height: 480px;
   overflow-y: scroll;
   scrollbar-width: thin;
+}#lien-tim{
+  text-decoration: none;
+  color: red;
+}
+.footer-goche{
+  display: flex;
+  justify-content: flex-start;
+
 }
