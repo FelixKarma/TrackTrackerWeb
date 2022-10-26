@@ -107,7 +107,7 @@ li {
 }
 
 body {
-  background-image: url("../image/FOND-ROUGE.jpg");
+  background-image: url("../image/FOND.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%
@@ -179,15 +179,6 @@ audio {
 .marginpourespacerdeplusieurslignes {
   margin-top: 30px;
 
-}
-
-.card {
-  background-color: rgba(245, 245, 245, 0.4);
-}
-
-.card-header,
-.card-footer {
-  opacity: 1
 }
 
 .space1 {
@@ -281,10 +272,58 @@ audio {
 }
  
 
+#Harry{
+  background-image: url('../image/HP_Playlist.jpg');
+  background-repeat: no-repeat;
+  background-attachment: local;
+  background-size: cover;
+}
+#Anatomy{
+  background-image: url('../image/greys_anatomy_playlist.jpg');
+  background-repeat: no-repeat;
+  background-attachment: local;
+  background-size: cover;
+}
+#Interstellar{
+  background-image: url('../image/Interstellar_Playlist.jpg');
+  background-attachment: local;
+  background-size: cover;
+}
+#Chucky{
+  background-image: url('../image/Chuky_playlist.jpg');
+  background-repeat: no-repeat;
+  background-attachment: local;
+  background-size: cover;
+}
+#Wdead{
+  background-image: url('../image/TWD_Playlist.jpg');
+  background-repeat: no-repeat;
+  background-attachment: local;
+  background-size: cover;
+}
+#Doctor{
+  background-image: url('../image/GoodD.jfif');
+  background-repeat: no-repeat;
+  background-attachment: local;
+  background-size: cover;
+}
+#Games{
+  background-image: url('../image/Hunger_games_playlist.jpg');
+  background-repeat: no-repeat;
+  background-attachment: local;
+  background-size: cover;
+}
+#Tim{
+  background-image: url('../image/timsoleil.png');
+  background-repeat: no-repeat;
+  background-attachment: local;
+  background-size: cover;
+}
+ 
 #dropdownpopulaire{
   color: white;
 }
- a {
+.lien-footer {
   text-decoration: none !important;
   color: white !important; 
  }
@@ -293,3 +332,18 @@ audio {
   justify-content: space-around;
 }
 
+
+
+.dropdown-populaire{
+  text-decoration: none;
+  color: black;
+  }
+
+.dropdown-populaire:hover{
+  color:black ;
+}
+
+.affiche-film{
+  width: 230px;
+  height: 352px;
+}
