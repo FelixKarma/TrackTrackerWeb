@@ -107,10 +107,11 @@ li {
 }
 
 body {
-  background-image: url("../image/FOND.jpg");
+  background-image: url("../image/FOND-ROUGE.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%
+
 }
 
 
@@ -237,6 +238,7 @@ audio {
     line-height: 2.375rem;
     text-align: center;
     pointer-events: none;
+    color: rgb(255, 255, 255);
     color: rgb(254, 254, 254);
 }
 
@@ -259,21 +261,22 @@ audio {
 }
 
 #researchbar {
-  background-color: rgba(0, 0, 0, 0);
+  background-color: rgba(255, 255, 255, 0);
 }     
 
 .tailleperso{
   font-size: 14px;
-  border-color: black;
+  border-color: rgb(255, 255, 255);
 }
 
 .btn-group {
-  background-color: rgba(162, 25, 98, 0);
+  background-color: rgba(255, 255, 255, 0);
 }
 
 #footer1 {
-  background-color: rgba(0, 0, 0, 0);
+  background-color: rgba(255, 255, 255, 0);
 }
+ 
 
 #dropdownpopulaire{
   color: white;
