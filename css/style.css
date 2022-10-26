@@ -356,3 +356,8 @@ audio {
   text-decoration: none;
   color: red;
 }
+.footer-goche{
+  display: flex;
+  justify-content: flex-start;
+
+}
