@@ -311,6 +311,12 @@ audio {
   background-attachment: local;
   background-size: cover;
 }
+#Futur{
+  background-image: url('../image/RVF.png');
+  background-repeat: no-repeat;
+  background-attachment: local;
+  background-size: cover;
+}
 #Tim{
   background-image: url('../image/timsoleil.png');
   background-repeat: no-repeat;
@@ -432,7 +438,7 @@ audio {
         position: relative;
     width: 19px;
     font-size: 25px;
-    color: #fbff00;
+    color: #e2c20e;
     cursor: pointer;
 }
 
