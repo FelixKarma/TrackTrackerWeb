@@ -459,3 +459,12 @@ audio {
   display: flex;
   position: absolute;
 }
+
+
+.timbody{
+  background-image: url("../image/timsoleil.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%
+
+}
